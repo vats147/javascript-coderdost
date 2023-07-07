@@ -14,3 +14,6 @@ console.log(data);
 
 //join the split words 
 console.log(data.join(' '));
+
+//access specific elements of array
+console.log(data[2]);
