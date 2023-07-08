@@ -17,3 +17,7 @@ console.log(data.join(' '));
 
 //access specific elements of array
 console.log(data[2]);
+
+// Reverse String
+console.log(data[1].reverse());
+    
