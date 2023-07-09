@@ -20,4 +20,10 @@ console.log(data[2]);
 
 // Reverse String
 console.log(data[1].reverse());
-    
+
+
+for(let i=0;i<data.length;i++)
+{
+
+    console.log(data[i]);
+}
