@@ -27,3 +27,5 @@ for(let i=0;i<data.length;i++)
 
     console.log(data[i]);
 }
+
+//const variable can not change after assgin it 
