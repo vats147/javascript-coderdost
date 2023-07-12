@@ -29,3 +29,5 @@ for(let i=0;i<data.length;i++)
 }
 
 //const variable can not change after assgin it 
+const a=10;
+
