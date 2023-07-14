@@ -33,3 +33,4 @@ const a=10;
 
 // cannnot change const value 
 // a=15 invalid
+let c=10
