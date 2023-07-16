@@ -37,3 +37,8 @@ let c=10
 
 
 let sentence="hello world"
+
+while(c<=11)
+    {
+        console.log("Hello");
+    }
