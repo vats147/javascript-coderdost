@@ -42,3 +42,7 @@ while(c<=11)
     {
         console.log("Hello");
     }
+let obj={
+    name:"Hello",
+    age:10
+}
