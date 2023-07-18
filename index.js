@@ -46,3 +46,9 @@ let obj={
     name:"Hello",
     age:10
 }
+
+//pass by Refrence
+let objRef=obj;
+
+// pass by value
+let objValue={...obj}
