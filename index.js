@@ -52,3 +52,5 @@ let objRef=obj;
 
 // pass by value
 let objValue={...obj}
+
+// DOM access
