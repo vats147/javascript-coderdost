@@ -50,6 +50,8 @@ let obj={
 //pass by Refrence
 let objRef=obj;
 
+obRef={age:15} //It will override current object value 
+
 // pass by value
 let objValue={...obj}
 
