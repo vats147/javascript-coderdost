@@ -56,3 +56,4 @@ obRef={age:15} //It will override current object value
 let objValue={...obj}
 
 // DOM access
+let anchorAttribute=document.querySelectorAll('#nav');
