@@ -57,3 +57,4 @@ let objValue={...obj}
 
 // DOM access
 let anchorAttribute=document.querySelectorAll('#nav');
+console.log(anchorAttribute.innerHTML);
