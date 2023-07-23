@@ -58,3 +58,7 @@ let objValue={...obj}
 // DOM access
 let anchorAttribute=document.querySelectorAll('#nav');
 console.log(anchorAttribute.innerHTML);
+
+// Change innerHTML
+anchorAttribute.innerHTML="<h1>Hello World</h1>
+    
