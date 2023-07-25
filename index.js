@@ -26,6 +26,8 @@ for(let i=0;i<data.length;i++)
 {
 
     console.log(data[i]);
+    if(i===5)
+        return
 }
 
 //const variable can not change after assgin it 
