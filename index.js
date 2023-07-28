@@ -65,8 +65,12 @@ let anchorText=document.querySelectorAll('<h1>');
 console.log(anchorAttribute.innerHTML);
 
 // Change innerHTML
-anchorAttribute.innerHTML="<h1>Hello World</h1>
+anchorAttribute.innerHTML="<h1>Hello World</h1>";
     
 
 // Change innetText
+anchorAttribute.innerText="Hii I changed word";
+
+
+
 
