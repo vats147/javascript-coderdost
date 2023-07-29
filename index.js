@@ -71,6 +71,7 @@ anchorAttribute.innerHTML="<h1>Hello World</h1>";
 // Change innetText
 anchorAttribute.innerText="Hii I changed word";
 
+//comment 1
 
 
 
